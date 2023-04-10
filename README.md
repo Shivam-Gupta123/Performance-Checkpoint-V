@@ -1,2 +1,11 @@
-# Performance-Checkpoint-V
-This repository contains the code used on our robot for the fifth performance evaluation.
+**Performance Check #5:**
+
+Our design met all the specifications of the performance checkpoint. Our robot successfully started when the start light came on, turned left, moved forward, extended the lever arm, deposited the luggage, and pushed the final button. This was the final Performance Checkpoint, and the process went the smoothest of all checkpoints due to the team’s habit of adapting and growing from past failures.
+
+Our design performed as we expected it too, and our practice runs were a lot less erratic than they were in previous Performance Checkpoints. The only issue was that sometimes the robot was too far forward and oriented at the wrong angle, resulting in the luggage getting launched past the deposit site. This was easily fixed by changing input values to the robot.  
+
+One strength of our robot design is that the lever arm has a hook, which results in easy movement and release of the luggage. Also, our lever arm is controlled by a FITEC High Torque Servo, which results in quick and easy control over the lever arm and allows for the lever arm to be set at a certain angle. Additionally, the Q.R. code stand extensions serve as a rest for the lever, which allows for minimal expenditure of energy and higher efficiency.
+
+One way the design of our robot can be improved is by changing the orientation of the wiring on the robot. The wiring on the robot is currently very complicated and confusing. Also labelling the motor port wires would be helpful. It takes a significant amount of time to set up and wire up the robot before every session. 
+
+To ensure success in the upcoming Performance Test 1, the team will implement solutions to make the robot as consistent as possible. For checkpoints 1 and 2, we had mainly relied on brute force and sheer luck to complete the tasks. Additionally, we will try to be more proactive in trying to detect potential issues with the functionality of the robot before the date of the Checkpoint test. Doing so would give us more time to implement solutions to problems and should allow for smoother testing and overall experience during this project. One way that the team plans on improving the consistency of robot runs is to implement some sort of square that can be placed on the start site, that will show the relative orientation of the robot to the course and will allow for the robot to be angled and placed the same way for every run.
